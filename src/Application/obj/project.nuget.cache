@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "O/iYO1ogRdjlCNS6TBLyLSKlYNv0X/wSpy7X1OAMZxyS7dRds+pnWWXK5CYXKSo58Al91qJqa9hdT4aXY+hNKQ==",
+  "dgSpecHash": "4A8gxljJcCHKTXGNhaj/SWMc9n4urEJmZYSxMcCI3Qbjf2noo930hyzEjkipC5Yez0ZWvSz2A+cCJ5lID8SYHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\adilson.m\\Documents\\Documentos\\code\\console_app_with_cqrs\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adilson.m\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\adilson.m\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\adilson.m\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\adilson.m\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\adilson.m\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "C:\\Users\\adilson.m\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
